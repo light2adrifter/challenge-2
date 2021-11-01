@@ -137,7 +137,7 @@ footer address a:hover {
 #profile {
     display: flex;
     flex-wrap: wrap;
-    width: 500px;
+    width: 50   0px;
     padding: 25px;
     background-color: var(--tertiary-color);
     border: 5px solid var(--secondary-color);
